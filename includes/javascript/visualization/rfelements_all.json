@@ -1,0 +1,1208 @@
+{
+    "FullFramework": [
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "Bureau of Counterterrorism",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 1,
+            "Children": [
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ],
+            "Parents": [
+                0
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "Violent Extremism Countered",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 2,
+            "Children": [
+                8,
+                9
+            ],
+            "Parents": [
+                1
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "Multilateral and regional mechanisms to counter terrorism strengthened",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 3,
+            "Children": [
+                19
+            ],
+            "Parents": [
+                1
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "Host country civilian capacity and performance to deter, disrupt and apprehend terrorists enhanced",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 4,
+            "Children": [
+                48
+            ],
+            "Parents": [
+                1
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "Terrorist networks, including sponsorship, financial support, travel and sanctuary disrupted",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 5,
+            "Children": [
+                31
+            ],
+            "Parents": [
+                1
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "CT strategies and policies are clear, well-coordinated and embedded in US foreign policy",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 6,
+            "Children": [],
+            "Parents": [
+                1
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "US and US embassies and foreign partners are prepared for and can effectively respond to terrorist incidents",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 7,
+            "Children": [],
+            "Parents": [
+                1
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "Improved foreign policy considerations are reflected in DHS policies and plans",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 8,
+            "Children": [],
+            "Parents": [
+                2
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "Reduced Terrorist Recruiting",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 9,
+            "Children": [
+                10,
+                11
+            ],
+            "Parents": [
+                2
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "CT Promotes and positions countering violent extemism policy",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 10,
+            "Children": [
+                12,
+                13,
+                14
+            ],
+            "Parents": [
+                9
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "CT Promotes and positions countering violent extremism programs and activities",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 11,
+            "Children": [
+                15,
+                16,
+                17,
+                18
+            ],
+            "Parents": [
+                9
+            ],
+            "Activities": [
+                128,
+                4,
+                174,
+                9,
+                19
+            ],
+            "Indicators": [
+                17,
+                28,
+                98
+            ]
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "CT engages Civil Society",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 12,
+            "Children": [],
+            "Parents": [
+                10
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "CT engages in Inter-agency activities",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 13,
+            "Children": [],
+            "Parents": [
+                10
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "CT uses diplomacy in multilateral and bilateral arenas",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 14,
+            "Children": [],
+            "Parents": [
+                10
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "CT uses Diagnostics to identify extremist activity",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 15,
+            "Children": [],
+            "Parents": [
+                11
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "CT funds seed programs",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 16,
+            "Children": [],
+            "Parents": [
+                11
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "CT promotes proof of concept to outside entities",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 17,
+            "Children": [],
+            "Parents": [
+                11
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "CT disseminates best practices",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 18,
+            "Children": [],
+            "Parents": [
+                11
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "Multilateral and regional organizations advance US CT priorities",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 19,
+            "Children": [
+                20,
+                21
+            ],
+            "Parents": [
+                3
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "Priority countries capacity to counter terrorism is strengthened by Mulitlateral and Regional organizations",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 20,
+            "Children": [
+                22,
+                23
+            ],
+            "Parents": [
+                19
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "Priority countries participating in mulitlateral and Regional organizations have increased political will to counter terrorism",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 21,
+            "Children": [
+                24
+            ],
+            "Parents": [
+                19
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "CT programs in multilateral and regional organizations provide necessary support to individual priority countries",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 22,
+            "Children": [
+                25,
+                26
+            ],
+            "Parents": [
+                20
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "International architecture addresses 21st century terrorist threats in priority countries and regions",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 23,
+            "Children": [
+                27,
+                28
+            ],
+            "Parents": [
+                20
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "Multilateral and regional organizations adopt policies that support U.S. CT priorities",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 24,
+            "Children": [
+                29,
+                30
+            ],
+            "Parents": [
+                21
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "CT funds effective initiatives using CTE funds",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 25,
+            "Children": [],
+            "Parents": [
+                22
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "USG and foreign partner initiatives are coordinated and guided by CT",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 26,
+            "Children": [],
+            "Parents": [
+                22
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "GCTF is an effective international organization",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 27,
+            "Children": [],
+            "Parents": [
+                23
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "CT impacts or supports effective leadership and operations in existing multilateral organizations",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 28,
+            "Children": [],
+            "Parents": [
+                23
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "Member states develop and strengthen national standards, norms and best practices",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 29,
+            "Children": [],
+            "Parents": [
+                24
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "CT enhances awareness of threats, builds cooperation, and strengthens partnerships",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 30,
+            "Children": [],
+            "Parents": [
+                24
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "Counter-Terrorism Finance",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 31,
+            "Children": [
+                32,
+                33,
+                34,
+                35,
+                36
+            ],
+            "Parents": [
+                5
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "Country?s AML/CTF Legal Framework meets International Standards",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 32,
+            "Children": [
+                37,
+                38
+            ],
+            "Parents": [
+                31
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "Country?s Financial Regulatory Systems are Functional and meet International Standards ",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 33,
+            "Children": [
+                39,
+                40
+            ],
+            "Parents": [
+                31
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "Country has an effective Financial Intelligence Unit that meets International standards",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 34,
+            "Children": [
+                41,
+                42,
+                43
+            ],
+            "Parents": [
+                31
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "Country?s Law Enforcement Agencies are Capable of Investigating and Developing Evidence to Pursue Prosecution of AML/CTF",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 35,
+            "Children": [
+                44,
+                45
+            ],
+            "Parents": [
+                31
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "Country Prosecutes and Supports other Nations in AML/CTF cases",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 36,
+            "Children": [
+                46,
+                47
+            ],
+            "Parents": [
+                31
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "Country  has  effective laws to combat money laundering and terrorist finance ",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 37,
+            "Children": [],
+            "Parents": [
+                32
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "Country  has  effective legal procedures to combat money laundering and terrorist finance ",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 38,
+            "Children": [],
+            "Parents": [
+                32
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "Country?s financial institutions  (FIs) in the formal  (FFS) and informal financial sector ?monetary value transfer system (INFS- MVTS) are effective and functional",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 39,
+            "Children": [],
+            "Parents": [
+                33
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "Country prevents the use and abuse of NGOs for Terrorist Finance purposes",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 40,
+            "Children": [],
+            "Parents": [
+                33
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "Country received and stored financial information",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 41,
+            "Children": [],
+            "Parents": [
+                34
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "Country disseminated financial intelligence domestically and internationally",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 42,
+            "Children": [],
+            "Parents": [
+                34
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "Country analyzed financial intelligence information",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 43,
+            "Children": [],
+            "Parents": [
+                34
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "Law enforcement effectively investigates AML/CTF cases",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 44,
+            "Children": [],
+            "Parents": [
+                35
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "Law enforcement effectively collects admissible evidence to pursue AML/CTF cases",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 45,
+            "Children": [],
+            "Parents": [
+                35
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "Country prosecutors successfully prosecute AML/CTF cases",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 46,
+            "Children": [],
+            "Parents": [
+                36
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "Country cooperates effectively with foreign partners on AML/CTF cases",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 47,
+            "Children": [],
+            "Parents": [
+                36
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "Partner nation?s law enforcement sector  counters terrorism while respecting human rights",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 48,
+            "Children": [
+                49,
+                50,
+                51,
+                52,
+                53,
+                54
+            ],
+            "Parents": [
+                4
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "PN LE respects human rights and exercises the appropriate use of force in CT activities",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 49,
+            "Children": [
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61
+            ],
+            "Parents": [
+                48
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "PN LE detects terrorist activity ",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 50,
+            "Children": [
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61
+            ],
+            "Parents": [
+                48
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "PN LE deters terrorist activity",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 51,
+            "Children": [
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61
+            ],
+            "Parents": [
+                48
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "PN LE apprehends terrorists",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 52,
+            "Children": [
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61
+            ],
+            "Parents": [
+                48
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "PN LE responds to critical CT incidents ",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 53,
+            "Children": [
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61
+            ],
+            "Parents": [
+                48
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "PN LE engages in productive bilateral CT relations with the US",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 54,
+            "Children": [
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61
+            ],
+            "Parents": [
+                48
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "PN LE has capacity to conduct terrorism investigations",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 55,
+            "Children": [],
+            "Parents": [
+                49,
+                50,
+                51,
+                52,
+                53,
+                54
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "PN LE has capacity to secure borders from terrorist transit and materials",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 56,
+            "Children": [],
+            "Parents": [
+                49,
+                50,
+                51,
+                52,
+                53,
+                54
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "PN LE  has capacity to protect critical targets and individuals from terrorist attacks",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 57,
+            "Children": [],
+            "Parents": [
+                49,
+                50,
+                51,
+                52,
+                53,
+                54
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "PN LE has capacity to employ effective CT leadership and management practices",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 58,
+            "Children": [],
+            "Parents": [
+                49,
+                50,
+                51,
+                52,
+                53,
+                54
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "PN LE  has capacity to cooperate with regional counterparts on CT",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 59,
+            "Children": [],
+            "Parents": [
+                49,
+                50,
+                51,
+                52,
+                53,
+                54
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "PN LE effectively uses tactical capabilities to counter critical terrorism incidents",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 60,
+            "Children": [],
+            "Parents": [
+                49,
+                50,
+                51,
+                52,
+                53,
+                54
+            ],
+            "Activities": [],
+            "Indicators": []
+        },
+        {
+            "ABBREVIATION": "",
+            "DESCRIPTION": "",
+            "DISPLAYNUMBER": "",
+            "EXTERNALCODE": "",
+            "EXTERNALCODEDESCRIPTION": "",
+            "LEVELDESCRIPTION": "",
+            "NAME": "PN LE  has capacity to establish effective CT cyber security capacities",
+            "PARENTID": null,
+            "RESULTSFRAMEWORKELEMENTID": 61,
+            "Children": [],
+            "Parents": [
+                49,
+                50,
+                51,
+                52,
+                53,
+                54
+            ],
+            "Activities": [],
+            "Indicators": []
+        }
+    ]
+}

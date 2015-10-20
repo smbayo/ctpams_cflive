@@ -1,0 +1,6 @@
+<cfoutput>
+#rc.jstring#
+</cfoutput>
+
+
+
